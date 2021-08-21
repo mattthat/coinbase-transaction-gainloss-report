@@ -1,0 +1,16 @@
+{
+  "name": "coinbase-transaction-gainloss-report",
+  "version": "1.0.4",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matt.that@gmail.com",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/mattthat/coinbase-transaction-gainloss-report",
+  "dependencies": {
+    "crypto-price": "^0.0.6",
+    "csv-parse": "^4.16.0"
+  }
+}
