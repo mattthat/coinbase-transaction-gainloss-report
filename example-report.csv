@@ -1,0 +1,4 @@
+Timestamp,Transaction Type,Asset,Quantity Transacted,USD Spot Price at Transaction,USD Subtotal,USD Total (inclusive of fees),USD Fees,Notes
+2017-12-30T19:27:42Z,Buy,BTC,123,1,123,123,01,Example transactions
+2017-12-30T19:27:42Z,Buy,ETH,123,1,123,123,01,Example transactions
+

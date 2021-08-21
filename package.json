@@ -1,0 +1,20 @@
+{
+  "name": "coinbase-transaction-gainloss-report",
+  "version": "1.0.8",
+  "description": "a processing tool for gain/loss details given a Coinbase transaction report",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "matt.that@gmail.com",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/mattthat/coinbase-transaction-gainloss-report",
+  "keywords": "crypto coinbase nodejs javascript",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "crypto-price": "^0.0.6",
+    "csv-parse": "^4.16.0"
+  }
+}
